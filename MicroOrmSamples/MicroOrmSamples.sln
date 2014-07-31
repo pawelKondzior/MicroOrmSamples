@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroOrmSamples.Basic", "MicroOrmSamples.Basic\MicroOrmSamples.Basic.csproj", "{932E73C3-0440-4BF7-9FDC-82538A6C159C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kondzior", "Kondzior", "{901978D9-ABED-40E5-8698-05E4EA109CA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polak", "Polak", "{04FF5AA4-17C7-4164-BF3D-C3CF4C0C9B49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Wspolne", "Wspolne", "{31CF3BEB-DDDB-4A9F-9B21-52DFBE52C252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroOrmSamples.Ef5", "Kondzior\MicroOrmSamples.Ef5\MicroOrmSamples.Ef5.csproj", "{781FD852-989D-407D-B55C-CBC9BEB11B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932E73C3-0440-4BF7-9FDC-82538A6C159C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932E73C3-0440-4BF7-9FDC-82538A6C159C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932E73C3-0440-4BF7-9FDC-82538A6C159C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932E73C3-0440-4BF7-9FDC-82538A6C159C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781FD852-989D-407D-B55C-CBC9BEB11B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781FD852-989D-407D-B55C-CBC9BEB11B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781FD852-989D-407D-B55C-CBC9BEB11B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781FD852-989D-407D-B55C-CBC9BEB11B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{781FD852-989D-407D-B55C-CBC9BEB11B31} = {901978D9-ABED-40E5-8698-05E4EA109CA4}
+	EndGlobalSection
+EndGlobal

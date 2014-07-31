@@ -1,0 +1,6 @@
+C:\Users\Pawel\Documents\GitHub\MicroOrmSamples\MicroOrmSamples\Kondzior\MicroOrmSamples.Ef5\bin\Debug\MicroOrmSamples.Ef5.exe.config
+C:\Users\Pawel\Documents\GitHub\MicroOrmSamples\MicroOrmSamples\Kondzior\MicroOrmSamples.Ef5\bin\Debug\MicroOrmSamples.Ef5.exe
+C:\Users\Pawel\Documents\GitHub\MicroOrmSamples\MicroOrmSamples\Kondzior\MicroOrmSamples.Ef5\bin\Debug\MicroOrmSamples.Ef5.pdb
+C:\Users\Pawel\Documents\GitHub\MicroOrmSamples\MicroOrmSamples\Kondzior\MicroOrmSamples.Ef5\obj\Debug\MicroOrmSamples.Ef5.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Documents\GitHub\MicroOrmSamples\MicroOrmSamples\Kondzior\MicroOrmSamples.Ef5\obj\Debug\MicroOrmSamples.Ef5.exe
+C:\Users\Pawel\Documents\GitHub\MicroOrmSamples\MicroOrmSamples\Kondzior\MicroOrmSamples.Ef5\obj\Debug\MicroOrmSamples.Ef5.pdb
